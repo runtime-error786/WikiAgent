@@ -6,3 +6,6 @@ Stateful Conversation: The bot maintains the context of the conversation using a
 Tool Integration: The bot is capable of interacting with external tools, such as Wikipedia, to retrieve and provide information on demand.
 Customizable LLM: Powered by the mixtral model from Groq, the bot’s behavior and responses can be fine-tuned as per the requirements.
 Graph-Based Flow: Conversation flow is managed through LangGraph, allowing complex interactions and decision-making processes.
+
+
+![image](https://github.com/user-attachments/assets/a87ee129-2225-4c51-bf80-5263a0a40820)
